@@ -17,20 +17,22 @@ y cualquier conocimiento que me ayude a crecer como profesional en este campo.
 
 ### Estos son algunos comandos de la terminal que pueden ser utiles
 
-| Nombre del comando | Descripción |
-| --- | --- |
-| `ls` | Lista el contenido del directorio actual |
-| `cd` | Cambia el directorio actual |
-| `mkdir` | Crea un nuevo directorio |
-| `rm` | Elimina archivos y directorios |
-| `touch` | Crea un nuevo archivo |
+| Nombre del comando | Descripción                              |
+| ------------------ | ---------------------------------------- |
+| `ls`               | Lista el contenido del directorio actual |
+| `cd`               | Cambia el directorio actual              |
+| `mkdir`            | Crea un nuevo directorio                 |
+| `rm`               | Elimina archivos y directorios           |
+| `touch`            | Crea un nuevo archivo                    |
 
 ### Alias de la Terminal
 
 Un alias de la terminal es una abreviación que se puede usar en lugar de escribir comandos largos y complejos. Estos alias se pueden configurar en el archivo de configuración de la terminal.
 
-- `ll`: un alias de `ls -l`, que lista los archivos en el directorio actual con información detallada sobre cada archivo.
-- `gaa`: un alias de `git add --all`, que agrega todos los cambios realizados en el repositorio de git.
+| Nombre del comando | Descripción                                                                                                       |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| `ll`               | un alias de `ls -l`, que lista los archivos en el directorio actual con información detallada sobre cada archivo. |
+| `gaa`              | un alias de `git add --all`, que agrega todos los cambios realizados en el repositorio de git.                    |
 
 
 
